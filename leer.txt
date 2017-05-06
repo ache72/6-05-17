@@ -1,0 +1,21 @@
+Procedimientso almacenados
+Callablestatement
+
+Lis = listar
+
+Eli = eliminar
+
+act = actualizar
+
+Sp_<acion>_<nombre>_<inicial>
+
+
+<nombre> -> nombre tabla o persona
+
+Ejemplo:
+
+Sp_Lis_Juan_JRP    JRP->Juan ramos pacheo
+
+Sp_Eli_Carlos_CPS     CPS ->caros perez sanchez
+
+Sp_Eli_Alumnos_CPP
